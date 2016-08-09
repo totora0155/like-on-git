@@ -4,3 +4,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### August 8, 2016
 - [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
 - [koajs/koa: Expressive middleware for node.js using generators](https://github.com/koajs/koa) 
+
+### August 9, 2016
+- [tudou527/marketch: Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it.](https://github.com/tudou527/marketch) 
